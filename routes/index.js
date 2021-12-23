@@ -1,9 +1,9 @@
-const router = require('express').router();
+const router = require('express').Router();
 const apiRoutes = require('./api');
 
-router.us('/api', apiRoutes);
+router.use('/api', apiRoutes);
 
-router.use((req.res) => {
+router.use((req,res) => {
     res.send("<h1> Is a Wrong Route!!</h1>")
 });
 

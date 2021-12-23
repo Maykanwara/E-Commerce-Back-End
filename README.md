@@ -2,7 +2,7 @@
 
 
 ## Description
-​This is to build a  E-Commerce-Back-End that will run in the browser and feature dynamically updated Sequelize.
+This is to build a  E-Commerce-Back-End that will run in the browser and feature dynamically updated Sequelize.
 
 
 ## Languages
@@ -27,14 +27,14 @@
 
 
 ## Contact Information
-​Email: maykanwara@gmail.com
+Email: maykanwara@gmail.com
 
 
 
 
 
 
-​# Unit 13: Object-Relational Mapping (ORM)
+##Unit 13: Object-Relational Mapping (ORM)
 
 ## Overview:
 

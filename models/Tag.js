@@ -26,4 +26,4 @@ Tag.init(
     }
 );
 
-model.exports = Tag;
+module.exports = Tag;
